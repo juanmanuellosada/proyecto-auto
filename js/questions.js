@@ -1408,7 +1408,7 @@
   {
     "id": 112,
     "type": "image",
-    "image": "docs/senales/niños.png",
+    "image": "docs/senales/ninos.png",
     "question": "¿Qué significa esta señal?",
     "options": [
       "Niños jugando (Zona residencial)",
@@ -1655,7 +1655,7 @@
   {
     "id": 131,
     "type": "image",
-    "image": "docs/senales/presencia-de-vehiculo-extraño-ambulancia.png",
+    "image": "docs/senales/presencia-de-vehiculo-extrano-ambulancia.png",
     "question": "¿Qué significa esta señal?",
     "options": [
       "Salida de vehículos de emergencia",
@@ -1668,7 +1668,7 @@
   {
     "id": 132,
     "type": "image",
-    "image": "docs/senales/presencia-de-vehiculo-extraño-tractor.png",
+    "image": "docs/senales/presencia-de-vehiculo-extrano-tractor.png",
     "question": "¿Qué significa esta señal?",
     "options": [
       "Circulación de maquinaria agrícola",
@@ -1681,7 +1681,7 @@
   {
     "id": 133,
     "type": "image",
-    "image": "docs/senales/presencia-de-vehiculo-extraño-tranvia.png",
+    "image": "docs/senales/presencia-de-vehiculo-extrano-tranvia.png",
     "question": "¿Qué significa esta señal?",
     "options": [
       "Limitación de altura máxima",
