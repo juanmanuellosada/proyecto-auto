@@ -35,8 +35,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Separate questions
-    teoricaQuestions = questions.filter(q => q.type === 'text');
-    senalesQuestions = questions.filter(q => q.type === 'image');
+    teoricaQuestions = questions.filter(q => q.category === 'teorica');
+    senalesQuestions = questions.filter(q => q.category === 'senales');
 
     // Initialize Theme
     initTheme();
@@ -223,7 +223,7 @@ function renderQuestion() {
 
     const imgContainer = document.getElementById('question-image-container');
     imgContainer.innerHTML = '';
-    if (q.type === 'image') {
+    if (q.image) {
         const img = document.createElement('img');
         img.src = q.image;
         imgContainer.appendChild(img);
@@ -333,7 +333,7 @@ function renderSummary() {
         const statusIcon = isCorrect ? '<i class="fa-solid fa-check"></i>' : '<i class="fa-solid fa-xmark"></i>';
 
         let imageHtml = '';
-        if (q.type === 'image') {
+        if (q.image) {
             imageHtml = `<div class="summary-image"><img src="${q.image}" alt="Pregunta"></div>`;
         }
 

@@ -10,7 +10,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b13.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b13.jpg",
+    "category": "senales"
   },
   {
     "id": 1,
@@ -23,7 +24,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b173.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b173.jpg",
+    "category": "senales"
   },
   {
     "id": 2,
@@ -35,7 +37,8 @@ const questions = [
       "Llamar al 911 y continuar el viaje."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 3,
@@ -48,7 +51,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b225.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b225.jpg",
+    "category": "senales"
   },
   {
     "id": 4,
@@ -61,7 +65,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b144.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b144.jpg",
+    "category": "teorica"
   },
   {
     "id": 5,
@@ -74,7 +79,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b185.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b185.jpg",
+    "category": "teorica"
   },
   {
     "id": 6,
@@ -86,7 +92,8 @@ const questions = [
       "Sí, es obligatorio y debe ser llevado dentro del habitáculo para poder utilizarlo en caso de necesitar descender a la calzada, frente a alguna causa de fuerza mayor."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 7,
@@ -99,7 +106,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b39.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b39.jpg",
+    "category": "teorica"
   },
   {
     "id": 8,
@@ -111,7 +119,8 @@ const questions = [
       "El vehículo que se presenta por el lado derecho."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 9,
@@ -124,7 +133,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b157.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b157.jpg",
+    "category": "teorica"
   },
   {
     "id": 10,
@@ -137,7 +147,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b223.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b223.jpg",
+    "category": "senales"
   },
   {
     "id": 11,
@@ -148,7 +159,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 12,
@@ -161,7 +173,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b210.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b210.jpg",
+    "category": "teorica"
   },
   {
     "id": 13,
@@ -174,7 +187,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b175.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b175.jpg",
+    "category": "senales"
   },
   {
     "id": 14,
@@ -185,7 +199,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 15,
@@ -198,7 +213,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b164.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b164.jpg",
+    "category": "teorica"
   },
   {
     "id": 16,
@@ -211,7 +227,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b93.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b93.jpg",
+    "category": "teorica"
   },
   {
     "id": 17,
@@ -224,7 +241,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b230.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b230.jpg",
+    "category": "senales"
   },
   {
     "id": 18,
@@ -237,7 +255,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b148.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b148.jpg",
+    "category": "teorica"
   },
   {
     "id": 19,
@@ -249,7 +268,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b38.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b38.jpg",
+    "category": "teorica"
   },
   {
     "id": 20,
@@ -261,7 +281,8 @@ const questions = [
       "Transmiten órdenes específicas, de cumplimiento obligatorio en el lugar para el cual están destinadas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 21,
@@ -272,7 +293,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 22,
@@ -284,7 +306,8 @@ const questions = [
       "Lo resolverá el Juez, en función de la gravedad del incidente y sus consecuencias."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 23,
@@ -296,7 +319,8 @@ const questions = [
       "En ningún caso."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 24,
@@ -307,7 +331,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 25,
@@ -319,7 +344,8 @@ const questions = [
       "90 km/h."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 26,
@@ -331,7 +357,8 @@ const questions = [
       "Sólo está prohibido modificar la placa de dominio trasera, no así la delantera."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 27,
@@ -344,7 +371,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b152.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b152.jpg",
+    "category": "teorica"
   },
   {
     "id": 28,
@@ -357,7 +385,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b258.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b258.jpg",
+    "category": "senales"
   },
   {
     "id": 29,
@@ -369,7 +398,8 @@ const questions = [
       "Sólo en dispositivo de retención infantil correspondiente a peso y talla, debidamente homologado."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 30,
@@ -381,7 +411,8 @@ const questions = [
       "Nunca, independientemente de cómo se encuentre el tránsito vehicular."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 31,
@@ -394,7 +425,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b133.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b133.jpg",
+    "category": "teorica"
   },
   {
     "id": 32,
@@ -405,7 +437,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 33,
@@ -418,7 +451,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b273.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b273.jpg",
+    "category": "senales"
   },
   {
     "id": 34,
@@ -430,7 +464,8 @@ const questions = [
       "A realizar cursos viales cada seis meses."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 35,
@@ -443,7 +478,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b15.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b15.jpg",
+    "category": "teorica"
   },
   {
     "id": 36,
@@ -455,7 +491,8 @@ const questions = [
       "La bicisenda se encuentra sobre la vereda y la ciclovía sobre la calzada."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 37,
@@ -468,7 +505,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b22.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b22.jpg",
+    "category": "teorica"
   },
   {
     "id": 38,
@@ -481,7 +519,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b162.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b162.jpg",
+    "category": "teorica"
   },
   {
     "id": 39,
@@ -492,7 +531,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 40,
@@ -504,7 +544,8 @@ const questions = [
       "A mayor velocidad, mayor campo visual."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 41,
@@ -517,7 +558,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b270.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b270.jpg",
+    "category": "senales"
   },
   {
     "id": 42,
@@ -529,7 +571,8 @@ const questions = [
       "Sí, siempre que se realice antes de llegar a la mitad de la cuadra y asegurándose de no poner en riesgo al resto de los vehículos."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 43,
@@ -542,7 +585,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b53.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b53.jpg",
+    "category": "teorica"
   },
   {
     "id": 44,
@@ -555,7 +599,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b154.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b154.jpg",
+    "category": "senales"
   },
   {
     "id": 45,
@@ -567,7 +612,8 @@ const questions = [
       "Sí, porque su uso es obligatorio para todos los ocupantes."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 46,
@@ -579,7 +625,8 @@ const questions = [
       "Hecho, evitable o no, que involucra daños a terceros."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 47,
@@ -591,7 +638,8 @@ const questions = [
       "Comodidad y Agilidad."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 48,
@@ -603,7 +651,8 @@ const questions = [
       "100 km/h."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 49,
@@ -616,7 +665,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b70.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b70.jpg",
+    "category": "teorica"
   },
   {
     "id": 50,
@@ -629,7 +679,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b161.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b161.jpg",
+    "category": "teorica"
   },
   {
     "id": 51,
@@ -642,7 +693,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b31.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b31.jpg",
+    "category": "senales"
   },
   {
     "id": 52,
@@ -654,7 +706,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b98.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b98.jpg",
+    "category": "teorica"
   },
   {
     "id": 53,
@@ -667,7 +720,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b215.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b215.jpg",
+    "category": "teorica"
   },
   {
     "id": 54,
@@ -680,7 +734,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b202.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b202.jpg",
+    "category": "teorica"
   },
   {
     "id": 55,
@@ -691,7 +746,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 56,
@@ -703,7 +759,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 57,
@@ -715,7 +772,8 @@ const questions = [
       "Ambas respuestas, A y B, son incorrectas."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 58,
@@ -728,7 +786,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b7.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b7.jpg",
+    "category": "teorica"
   },
   {
     "id": 59,
@@ -740,7 +799,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b246.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b246.jpg",
+    "category": "senales"
   },
   {
     "id": 60,
@@ -752,7 +812,8 @@ const questions = [
       "Peatón - Ciclista - Colectivo - Moto - Taxi/Automóvil - Camión."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 61,
@@ -764,7 +825,8 @@ const questions = [
       "Únicamente lugar del hecho para ganar tiempo y que el servicio de emergencia llegue lo más rápido posible."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 62,
@@ -777,7 +839,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b74.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b74.jpg",
+    "category": "senales"
   },
   {
     "id": 63,
@@ -789,7 +852,8 @@ const questions = [
       "Con el vehículo inmovilizado y el conductor fuera del mismo."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 64,
@@ -802,7 +866,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b226.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b226.jpg",
+    "category": "senales"
   },
   {
     "id": 65,
@@ -815,7 +880,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b267.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b267.jpg",
+    "category": "senales"
   },
   {
     "id": 66,
@@ -826,7 +892,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 67,
@@ -839,7 +906,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b228.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b228.jpg",
+    "category": "senales"
   },
   {
     "id": 68,
@@ -852,7 +920,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b6.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b6.jpg",
+    "category": "teorica"
   },
   {
     "id": 69,
@@ -865,7 +934,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b105.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b105.jpg",
+    "category": "senales"
   },
   {
     "id": 70,
@@ -877,7 +947,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b206.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b206.jpg",
+    "category": "teorica"
   },
   {
     "id": 71,
@@ -889,7 +960,8 @@ const questions = [
       "Si se realiza dentro de los 60 días hábiles de efectuada la verificación."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 72,
@@ -901,7 +973,8 @@ const questions = [
       "Mantenga bien ventilado el interior del vehículo."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 73,
@@ -914,7 +987,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b158.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b158.jpg",
+    "category": "teorica"
   },
   {
     "id": 74,
@@ -926,7 +1000,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 75,
@@ -938,7 +1013,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b103.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b103.jpg",
+    "category": "senales"
   },
   {
     "id": 76,
@@ -951,7 +1027,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b176.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b176.jpg",
+    "category": "senales"
   },
   {
     "id": 77,
@@ -964,7 +1041,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b48.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b48.jpg",
+    "category": "teorica"
   },
   {
     "id": 78,
@@ -977,7 +1055,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b156.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b156.jpg",
+    "category": "teorica"
   },
   {
     "id": 79,
@@ -990,7 +1069,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b83.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b83.jpg",
+    "category": "senales"
   },
   {
     "id": 80,
@@ -1003,7 +1083,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b209.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b209.jpg",
+    "category": "teorica"
   },
   {
     "id": 81,
@@ -1015,7 +1096,8 @@ const questions = [
       "Por la esquina, por la prolongación longitudinal de la vereda sobre la calle."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 82,
@@ -1027,7 +1109,8 @@ const questions = [
       "Al ambiental."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 83,
@@ -1039,7 +1122,8 @@ const questions = [
       "Utilizando ambos giros, metros antes de llegar a la intersección."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 84,
@@ -1051,7 +1135,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b97.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b97.jpg",
+    "category": "senales"
   },
   {
     "id": 85,
@@ -1063,7 +1148,8 @@ const questions = [
       "Algunas horas, su cantidad no influye en la conducción ya que lo importante es realizar paradas de descanso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 86,
@@ -1075,7 +1161,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b159.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b159.jpg",
+    "category": "teorica"
   },
   {
     "id": 87,
@@ -1088,7 +1175,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b107.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b107.jpg",
+    "category": "teorica"
   },
   {
     "id": 88,
@@ -1101,7 +1189,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b163.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b163.jpg",
+    "category": "teorica"
   },
   {
     "id": 89,
@@ -1114,7 +1203,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b24.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b24.jpg",
+    "category": "senales"
   },
   {
     "id": 90,
@@ -1126,7 +1216,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b260.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b260.jpg",
+    "category": "senales"
   },
   {
     "id": 91,
@@ -1139,7 +1230,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b27.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b27.jpg",
+    "category": "teorica"
   },
   {
     "id": 92,
@@ -1152,7 +1244,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b94.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b94.jpg",
+    "category": "teorica"
   },
   {
     "id": 93,
@@ -1165,7 +1258,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b16.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b16.jpg",
+    "category": "teorica"
   },
   {
     "id": 94,
@@ -1176,7 +1270,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 95,
@@ -1188,7 +1283,8 @@ const questions = [
       "Sólo daños materiales."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 96,
@@ -1201,7 +1297,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b160.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b160.jpg",
+    "category": "senales"
   },
   {
     "id": 97,
@@ -1213,7 +1310,8 @@ const questions = [
       "Forma de trasladarnos de manera rápida, segura y ordenada; haciendo hincapié en los peatones y ciclistas y contribuyendo a una mejor calidad ambiental."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 98,
@@ -1225,7 +1323,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son incorrectas."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 99,
@@ -1237,7 +1336,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 100,
@@ -1249,7 +1349,8 @@ const questions = [
       "No, porque si se encuentra correctamente la suspensión trasera, ésta asegurará el contacto adecuado de las ruedas con la calzada."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 101,
@@ -1261,7 +1362,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b218.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b218.jpg",
+    "category": "teorica"
   },
   {
     "id": 102,
@@ -1274,7 +1376,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b199.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b199.jpg",
+    "category": "teorica"
   },
   {
     "id": 103,
@@ -1286,7 +1389,8 @@ const questions = [
       "Lo más pesado en los asientos traseros (si es que se viaja sin ocupantes en esa zona). Eso ayuda a la estabilidad direccional."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 104,
@@ -1297,7 +1401,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 105,
@@ -1310,7 +1415,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b238.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b238.jpg",
+    "category": "senales"
   },
   {
     "id": 106,
@@ -1323,7 +1429,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b25.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b25.jpg",
+    "category": "senales"
   },
   {
     "id": 107,
@@ -1334,7 +1441,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 108,
@@ -1345,7 +1453,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 109,
@@ -1358,7 +1467,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b224.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b224.jpg",
+    "category": "senales"
   },
   {
     "id": 110,
@@ -1371,7 +1481,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b123.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b123.jpg",
+    "category": "senales"
   },
   {
     "id": 111,
@@ -1382,7 +1493,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 112,
@@ -1394,7 +1506,8 @@ const questions = [
       "12 años."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 113,
@@ -1407,7 +1520,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b49.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b49.jpg",
+    "category": "teorica"
   },
   {
     "id": 114,
@@ -1420,7 +1534,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b249.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b249.jpg",
+    "category": "senales"
   },
   {
     "id": 115,
@@ -1433,7 +1548,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b104.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b104.jpg",
+    "category": "teorica"
   },
   {
     "id": 116,
@@ -1446,7 +1562,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b54.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b54.jpg",
+    "category": "senales"
   },
   {
     "id": 117,
@@ -1458,7 +1575,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 118,
@@ -1469,7 +1587,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 119,
@@ -1481,7 +1600,8 @@ const questions = [
       "Puede provocar lesiones graves."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 120,
@@ -1493,7 +1613,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b155.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b155.jpg",
+    "category": "teorica"
   },
   {
     "id": 121,
@@ -1505,7 +1626,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 122,
@@ -1518,7 +1640,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b240.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b240.jpg",
+    "category": "senales"
   },
   {
     "id": 123,
@@ -1531,7 +1654,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b241.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b241.jpg",
+    "category": "senales"
   },
   {
     "id": 124,
@@ -1544,7 +1668,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b135.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b135.jpg",
+    "category": "teorica"
   },
   {
     "id": 125,
@@ -1557,7 +1682,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b201.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b201.jpg",
+    "category": "teorica"
   },
   {
     "id": 126,
@@ -1570,7 +1696,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b255.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b255.jpg",
+    "category": "senales"
   },
   {
     "id": 127,
@@ -1583,7 +1710,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b262.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b262.jpg",
+    "category": "senales"
   },
   {
     "id": 128,
@@ -1596,7 +1724,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b87.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b87.jpg",
+    "category": "senales"
   },
   {
     "id": 129,
@@ -1609,7 +1738,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b10.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b10.jpg",
+    "category": "teorica"
   },
   {
     "id": 130,
@@ -1621,7 +1751,8 @@ const questions = [
       "Es indistinto, ya que el vehículo que circula por la derecha siempre tiene prioridad."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 131,
@@ -1634,7 +1765,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b26.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b26.jpg",
+    "category": "teorica"
   },
   {
     "id": 132,
@@ -1647,7 +1779,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b89.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b89.jpg",
+    "category": "teorica"
   },
   {
     "id": 133,
@@ -1659,7 +1792,8 @@ const questions = [
       "No, los servicios de emergencia sólo pueden ser efectuados por los vehículos habilitados para este fin."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 134,
@@ -1671,7 +1805,8 @@ const questions = [
       "En el mes que le corresponda, inmediatamente seguido al año transcurrido."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 135,
@@ -1684,7 +1819,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b11.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b11.jpg",
+    "category": "teorica"
   },
   {
     "id": 136,
@@ -1697,7 +1833,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b194.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b194.jpg",
+    "category": "teorica"
   },
   {
     "id": 137,
@@ -1710,7 +1847,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b28.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b28.jpg",
+    "category": "senales"
   },
   {
     "id": 138,
@@ -1722,7 +1860,8 @@ const questions = [
       "Tocarle bocina para indicarle que debe seguir."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 139,
@@ -1735,7 +1874,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b254.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b254.jpg",
+    "category": "senales"
   },
   {
     "id": 140,
@@ -1747,7 +1887,8 @@ const questions = [
       "Humano, Vehicular y Ambiental."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 141,
@@ -1759,7 +1900,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 142,
@@ -1771,7 +1913,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 143,
@@ -1783,7 +1926,8 @@ const questions = [
       "110 km/h."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 144,
@@ -1795,7 +1939,8 @@ const questions = [
       "2 años, independientemente a la edad."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 145,
@@ -1807,7 +1952,8 @@ const questions = [
       "Que ha actuado no conforme a las exigencias de la Ley."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 146,
@@ -1818,7 +1964,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 147,
@@ -1831,7 +1978,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b114.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b114.jpg",
+    "category": "teorica"
   },
   {
     "id": 148,
@@ -1844,7 +1992,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b220.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b220.jpg",
+    "category": "teorica"
   },
   {
     "id": 149,
@@ -1857,7 +2006,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b119.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b119.jpg",
+    "category": "teorica"
   },
   {
     "id": 150,
@@ -1870,7 +2020,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b45.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b45.jpg",
+    "category": "senales"
   },
   {
     "id": 151,
@@ -1882,7 +2033,8 @@ const questions = [
       "Todo tipo de drogas (las legales e ilegales)."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 152,
@@ -1895,7 +2047,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b239.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b239.jpg",
+    "category": "senales"
   },
   {
     "id": 153,
@@ -1908,7 +2061,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b237.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b237.jpg",
+    "category": "senales"
   },
   {
     "id": 154,
@@ -1920,7 +2074,8 @@ const questions = [
       "A una conducción que mantenga durante todo el trayecto la misma velocidad."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 155,
@@ -1933,7 +2088,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b271.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b271.jpg",
+    "category": "senales"
   },
   {
     "id": 156,
@@ -1945,7 +2101,8 @@ const questions = [
       "Sólo en casos de incidentes que involucren a terceros."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 157,
@@ -1957,7 +2114,8 @@ const questions = [
       "30 kilómetros por hora."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 158,
@@ -1970,7 +2128,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b235.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b235.jpg",
+    "category": "senales"
   },
   {
     "id": 159,
@@ -1981,7 +2140,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 160,
@@ -1993,7 +2153,8 @@ const questions = [
       "Aquellas que transmiten órdenes específicas, de cumplimiento obligatorio en el lugar para el cual están destinadas."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 161,
@@ -2006,7 +2167,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b257.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b257.jpg",
+    "category": "senales"
   },
   {
     "id": 162,
@@ -2019,7 +2181,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b253.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b253.jpg",
+    "category": "senales"
   },
   {
     "id": 163,
@@ -2031,7 +2194,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b250.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b250.jpg",
+    "category": "senales"
   },
   {
     "id": 164,
@@ -2043,7 +2207,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b113.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b113.jpg",
+    "category": "teorica"
   },
   {
     "id": 165,
@@ -2056,7 +2221,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b186.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b186.jpg",
+    "category": "senales"
   },
   {
     "id": 166,
@@ -2069,7 +2235,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b33.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b33.jpg",
+    "category": "teorica"
   },
   {
     "id": 167,
@@ -2082,7 +2249,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b42.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b42.jpg",
+    "category": "teorica"
   },
   {
     "id": 168,
@@ -2095,7 +2263,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b82.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b82.jpg",
+    "category": "senales"
   },
   {
     "id": 169,
@@ -2108,7 +2277,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b111.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b111.jpg",
+    "category": "teorica"
   },
   {
     "id": 170,
@@ -2120,7 +2290,8 @@ const questions = [
       "El que circula más próximo al vehículo que se desea sobrepasar."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 171,
@@ -2133,7 +2304,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b222.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b222.jpg",
+    "category": "senales"
   },
   {
     "id": 172,
@@ -2145,7 +2317,8 @@ const questions = [
       "Daños causados a los vehículos únicamente."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 173,
@@ -2157,7 +2330,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b18.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b18.jpg",
+    "category": "teorica"
   },
   {
     "id": 174,
@@ -2170,7 +2344,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b57.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b57.jpg",
+    "category": "teorica"
   },
   {
     "id": 175,
@@ -2182,7 +2357,8 @@ const questions = [
       "Exceder el límite de velocidad máxima."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 176,
@@ -2195,7 +2371,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b265.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b265.jpg",
+    "category": "senales"
   },
   {
     "id": 177,
@@ -2207,7 +2384,8 @@ const questions = [
       "El vehículo que se encuentra dentro de la calzada circular."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 178,
@@ -2219,7 +2397,8 @@ const questions = [
       "Incorporarse al carril derecho, aunque ésto implique que otro vehículo deba modificar su velocidad."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 179,
@@ -2232,7 +2411,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b231.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b231.jpg",
+    "category": "senales"
   },
   {
     "id": 180,
@@ -2245,7 +2425,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b170.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b170.jpg",
+    "category": "senales"
   },
   {
     "id": 181,
@@ -2256,7 +2437,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 182,
@@ -2268,7 +2450,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 183,
@@ -2280,7 +2463,8 @@ const questions = [
       "Sí, porque se está obligado a no causar peligro ni entorpecer la circulación."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 184,
@@ -2293,7 +2477,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b245.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b245.jpg",
+    "category": "senales"
   },
   {
     "id": 185,
@@ -2306,7 +2491,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b95.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b95.jpg",
+    "category": "senales"
   },
   {
     "id": 186,
@@ -2318,7 +2504,8 @@ const questions = [
       "30 metros antes de realizar la maniobra."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 187,
@@ -2331,7 +2518,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b76.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b76.jpg",
+    "category": "senales"
   },
   {
     "id": 188,
@@ -2344,7 +2532,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b179.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b179.jpg",
+    "category": "teorica"
   },
   {
     "id": 189,
@@ -2357,7 +2546,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b147.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b147.jpg",
+    "category": "senales"
   },
   {
     "id": 190,
@@ -2370,7 +2560,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b128.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b128.jpg",
+    "category": "teorica"
   },
   {
     "id": 191,
@@ -2383,7 +2574,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b169.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b169.jpg",
+    "category": "senales"
   },
   {
     "id": 192,
@@ -2396,7 +2588,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b217.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b217.jpg",
+    "category": "teorica"
   },
   {
     "id": 193,
@@ -2409,7 +2602,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b191.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b191.jpg",
+    "category": "teorica"
   },
   {
     "id": 194,
@@ -2422,7 +2616,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b200.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b200.jpg",
+    "category": "teorica"
   },
   {
     "id": 195,
@@ -2434,7 +2629,8 @@ const questions = [
       "Son responsables de la mayoría de los incidentes fatales cualquiera sea la vía de circulación."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 196,
@@ -2447,7 +2643,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b124.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b124.jpg",
+    "category": "senales"
   },
   {
     "id": 197,
@@ -2459,7 +2656,8 @@ const questions = [
       "Comprende a todo el vehículo en general."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 198,
@@ -2471,7 +2669,8 @@ const questions = [
       "El que le autorizó el uso del vehículo."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 199,
@@ -2483,7 +2682,8 @@ const questions = [
       "Principio ético que busca mejorar la velocidad en el tránsito, al no encontrarse con imprevistos en la vía."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 200,
@@ -2495,7 +2695,8 @@ const questions = [
       "Ambas respuestas, la A y B, son correctas."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 201,
@@ -2508,7 +2709,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b242.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b242.jpg",
+    "category": "senales"
   },
   {
     "id": 202,
@@ -2521,7 +2723,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b56.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b56.jpg",
+    "category": "teorica"
   },
   {
     "id": 203,
@@ -2533,7 +2736,8 @@ const questions = [
       "No realizar movimientos en el asiento, ni cambios de postura."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 204,
@@ -2545,7 +2749,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b266.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b266.jpg",
+    "category": "senales"
   },
   {
     "id": 205,
@@ -2557,7 +2762,8 @@ const questions = [
       "No, porque justamente los frenos sirven para contrarrestar los efectos de la calzada resbaladiza."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 206,
@@ -2569,7 +2775,8 @@ const questions = [
       "Sí, si hay suficiente visibilidad."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 207,
@@ -2581,7 +2788,8 @@ const questions = [
       "La circulación a no más de 30 km/h en calles y de 45 km/h en avenidas."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 208,
@@ -2593,7 +2801,8 @@ const questions = [
       "No genera ningún efecto, siempre y cuando el conductor esté en condiciones legales para conducir."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 209,
@@ -2606,7 +2815,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b213.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b213.jpg",
+    "category": "teorica"
   },
   {
     "id": 210,
@@ -2619,7 +2829,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b168.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b168.jpg",
+    "category": "teorica"
   },
   {
     "id": 211,
@@ -2632,7 +2843,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b221.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b221.jpg",
+    "category": "teorica"
   },
   {
     "id": 212,
@@ -2644,7 +2856,8 @@ const questions = [
       "No hay prioridad, cualquiera de ellos."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 213,
@@ -2657,7 +2870,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b51.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b51.jpg",
+    "category": "teorica"
   },
   {
     "id": 214,
@@ -2669,7 +2883,8 @@ const questions = [
       "Se mantiene en el mismo valor durante 1 hora y luego comienza a descender."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 215,
@@ -2681,7 +2896,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b90.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b90.jpg",
+    "category": "senales"
   },
   {
     "id": 216,
@@ -2694,7 +2910,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b61.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b61.jpg",
+    "category": "senales"
   },
   {
     "id": 217,
@@ -2706,7 +2923,8 @@ const questions = [
       "No está permitido conducir con la licencia vencida, excepto que el vencimiento fuese un día inhábil, en cuyo caso se traslada al día hábil siguiente."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 218,
@@ -2718,7 +2936,8 @@ const questions = [
       "Realizar maniobras de sobrepaso."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 219,
@@ -2731,7 +2950,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b88.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b88.jpg",
+    "category": "senales"
   },
   {
     "id": 220,
@@ -2743,7 +2963,8 @@ const questions = [
       "La línea de edificación transversal."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 221,
@@ -2756,7 +2977,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b122.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b122.jpg",
+    "category": "senales"
   },
   {
     "id": 222,
@@ -2769,7 +2991,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b30.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b30.jpg",
+    "category": "senales"
   },
   {
     "id": 223,
@@ -2781,7 +3004,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 224,
@@ -2794,7 +3018,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b84.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b84.jpg",
+    "category": "senales"
   },
   {
     "id": 225,
@@ -2806,7 +3031,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 226,
@@ -2819,7 +3045,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b120.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b120.jpg",
+    "category": "senales"
   },
   {
     "id": 227,
@@ -2832,7 +3059,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b9.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b9.jpg",
+    "category": "teorica"
   },
   {
     "id": 228,
@@ -2845,7 +3073,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b65.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b65.jpg",
+    "category": "teorica"
   },
   {
     "id": 229,
@@ -2858,7 +3087,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b32.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b32.jpg",
+    "category": "senales"
   },
   {
     "id": 230,
@@ -2869,7 +3099,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 231,
@@ -2881,7 +3112,8 @@ const questions = [
       "Con las luces intermitentes (balizas)."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 232,
@@ -2893,7 +3125,8 @@ const questions = [
       "Es igual a la mínima establecida para el tipo de arteria correspondiente."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 233,
@@ -2905,7 +3138,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b19.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b19.jpg",
+    "category": "teorica"
   },
   {
     "id": 234,
@@ -2917,7 +3151,8 @@ const questions = [
       "72 horas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 235,
@@ -2930,7 +3165,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b132.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b132.jpg",
+    "category": "teorica"
   },
   {
     "id": 236,
@@ -2942,7 +3178,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b64.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b64.jpg",
+    "category": "teorica"
   },
   {
     "id": 237,
@@ -2955,7 +3192,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b227.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b227.jpg",
+    "category": "senales"
   },
   {
     "id": 238,
@@ -2968,7 +3206,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b234.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b234.jpg",
+    "category": "senales"
   },
   {
     "id": 239,
@@ -2980,7 +3219,8 @@ const questions = [
       "Sólo afecta la capacidad lumínica del vehículo."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 240,
@@ -2993,7 +3233,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b204.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b204.jpg",
+    "category": "teorica"
   },
   {
     "id": 241,
@@ -3004,7 +3245,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 242,
@@ -3016,7 +3258,8 @@ const questions = [
       "5 puntos."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 243,
@@ -3029,7 +3272,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b129.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b129.jpg",
+    "category": "teorica"
   },
   {
     "id": 244,
@@ -3041,7 +3285,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 245,
@@ -3054,7 +3299,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b67.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b67.jpg",
+    "category": "teorica"
   },
   {
     "id": 246,
@@ -3065,7 +3311,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 247,
@@ -3078,7 +3325,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b167.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b167.jpg",
+    "category": "teorica"
   },
   {
     "id": 248,
@@ -3091,7 +3339,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b165.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b165.jpg",
+    "category": "teorica"
   },
   {
     "id": 249,
@@ -3103,7 +3352,8 @@ const questions = [
       "Ambas respuestas, la A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 250,
@@ -3115,7 +3365,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b180.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b180.jpg",
+    "category": "teorica"
   },
   {
     "id": 251,
@@ -3128,7 +3379,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b140.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b140.jpg",
+    "category": "teorica"
   },
   {
     "id": 252,
@@ -3140,7 +3392,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 253,
@@ -3152,7 +3405,8 @@ const questions = [
       "60 km/h."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 254,
@@ -3165,7 +3419,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b184.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b184.jpg",
+    "category": "teorica"
   },
   {
     "id": 255,
@@ -3178,7 +3433,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b2.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b2.jpg",
+    "category": "teorica"
   },
   {
     "id": 256,
@@ -3190,7 +3446,8 @@ const questions = [
       "Sólo cuando se tiene más de 1 gramo de alcohol por litro de sangre."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 257,
@@ -3202,7 +3459,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b63.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b63.jpg",
+    "category": "teorica"
   },
   {
     "id": 258,
@@ -3215,7 +3473,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b50.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b50.jpg",
+    "category": "teorica"
   },
   {
     "id": 259,
@@ -3228,7 +3487,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b269.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b269.jpg",
+    "category": "senales"
   },
   {
     "id": 260,
@@ -3240,7 +3500,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 261,
@@ -3253,7 +3514,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b229.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b229.jpg",
+    "category": "senales"
   },
   {
     "id": 262,
@@ -3266,7 +3528,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b44.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b44.jpg",
+    "category": "teorica"
   },
   {
     "id": 263,
@@ -3278,7 +3541,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b99.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b99.jpg",
+    "category": "teorica"
   },
   {
     "id": 264,
@@ -3291,7 +3555,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b261.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b261.jpg",
+    "category": "senales"
   },
   {
     "id": 265,
@@ -3302,7 +3567,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 266,
@@ -3315,7 +3581,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b138.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b138.jpg",
+    "category": "teorica"
   },
   {
     "id": 267,
@@ -3328,7 +3595,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b91.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b91.jpg",
+    "category": "teorica"
   },
   {
     "id": 268,
@@ -3340,7 +3608,8 @@ const questions = [
       "30 lbs."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 269,
@@ -3352,7 +3621,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 270,
@@ -3364,7 +3634,8 @@ const questions = [
       "El recorrido mínimo e indispensable, siempre que se trate de una maniobra de estacionamiento."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 271,
@@ -3377,7 +3648,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b17.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b17.jpg",
+    "category": "teorica"
   },
   {
     "id": 272,
@@ -3390,7 +3662,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b236.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b236.jpg",
+    "category": "senales"
   },
   {
     "id": 273,
@@ -3402,7 +3675,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b37.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b37.jpg",
+    "category": "senales"
   },
   {
     "id": 274,
@@ -3414,7 +3688,8 @@ const questions = [
       "Ninguna de las anteriores."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 275,
@@ -3426,7 +3701,8 @@ const questions = [
       "Apagar el motor, colocar las balizas portátiles, mantener encendidas las luces de posición e intermitentes y llamar al número de asistencia."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 276,
@@ -3438,7 +3714,8 @@ const questions = [
       "Por su tamaño, es menos visible."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 277,
@@ -3450,7 +3727,8 @@ const questions = [
       "Al tiempo que pasa desde que se advierte una situación de riesgo hasta que se toma una decisión."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 278,
@@ -3463,7 +3741,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b21.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b21.jpg",
+    "category": "teorica"
   },
   {
     "id": 279,
@@ -3476,7 +3755,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b80.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b80.jpg",
+    "category": "teorica"
   },
   {
     "id": 280,
@@ -3489,7 +3769,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b106.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b106.jpg",
+    "category": "teorica"
   },
   {
     "id": 281,
@@ -3501,7 +3782,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b208.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b208.jpg",
+    "category": "teorica"
   },
   {
     "id": 282,
@@ -3514,7 +3796,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b189.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b189.jpg",
+    "category": "senales"
   },
   {
     "id": 283,
@@ -3527,7 +3810,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b8.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b8.jpg",
+    "category": "teorica"
   },
   {
     "id": 284,
@@ -3540,7 +3824,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b3.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b3.jpg",
+    "category": "teorica"
   },
   {
     "id": 285,
@@ -3552,7 +3837,8 @@ const questions = [
       "No, el descanso no tiene nada que ver con el consumo de alcohol."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 286,
@@ -3565,7 +3851,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b268.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b268.jpg",
+    "category": "senales"
   },
   {
     "id": 287,
@@ -3578,7 +3865,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b251.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b251.jpg",
+    "category": "senales"
   },
   {
     "id": 288,
@@ -3591,7 +3879,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b134.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b134.jpg",
+    "category": "teorica"
   },
   {
     "id": 289,
@@ -3604,7 +3893,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b196.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b196.jpg",
+    "category": "teorica"
   },
   {
     "id": 290,
@@ -3617,7 +3907,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b71.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b71.jpg",
+    "category": "senales"
   },
   {
     "id": 291,
@@ -3630,7 +3921,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b177.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b177.jpg",
+    "category": "senales"
   },
   {
     "id": 292,
@@ -3643,7 +3935,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b198.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b198.jpg",
+    "category": "teorica"
   },
   {
     "id": 293,
@@ -3656,7 +3949,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b40.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b40.jpg",
+    "category": "senales"
   },
   {
     "id": 294,
@@ -3669,7 +3963,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b232.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b232.jpg",
+    "category": "senales"
   },
   {
     "id": 295,
@@ -3682,7 +3977,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b275.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b275.jpg",
+    "category": "senales"
   },
   {
     "id": 296,
@@ -3695,7 +3991,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b212.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b212.jpg",
+    "category": "teorica"
   },
   {
     "id": 297,
@@ -3708,7 +4005,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b29.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b29.jpg",
+    "category": "senales"
   },
   {
     "id": 298,
@@ -3721,7 +4019,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b203.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b203.jpg",
+    "category": "teorica"
   },
   {
     "id": 299,
@@ -3733,7 +4032,8 @@ const questions = [
       "El conductor."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 300,
@@ -3746,7 +4046,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b193.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b193.jpg",
+    "category": "teorica"
   },
   {
     "id": 301,
@@ -3758,7 +4059,8 @@ const questions = [
       "Lugar por donde circulan ambulancias, bomberos y/o vehículos policiales, en cumplimiento o no de sus funciones."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 302,
@@ -3771,7 +4073,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b2.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b2.jpg",
+    "category": "teorica"
   },
   {
     "id": 303,
@@ -3784,7 +4087,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b178.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b178.jpg",
+    "category": "senales"
   },
   {
     "id": 304,
@@ -3796,7 +4100,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b207.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b207.jpg",
+    "category": "teorica"
   },
   {
     "id": 305,
@@ -3808,7 +4113,8 @@ const questions = [
       "El color, además de su forma, brinda información al conductor sobre el trayecto de la vía por la cual circula."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 306,
@@ -3820,7 +4126,8 @@ const questions = [
       "Socorrer - Proteger - Alertar."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 307,
@@ -3832,7 +4139,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b150.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b150.jpg",
+    "category": "teorica"
   },
   {
     "id": 308,
@@ -3844,7 +4152,8 @@ const questions = [
       "Hasta cinco."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 309,
@@ -3856,7 +4165,8 @@ const questions = [
       "Sí, puede afectar la coordinación, la atención y el tiempo de reacción."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 310,
@@ -3869,7 +4179,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b66.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b66.jpg",
+    "category": "senales"
   },
   {
     "id": 311,
@@ -3882,7 +4193,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b75.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b75.jpg",
+    "category": "senales"
   },
   {
     "id": 312,
@@ -3893,7 +4205,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 313,
@@ -3906,7 +4219,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b137.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b137.jpg",
+    "category": "teorica"
   },
   {
     "id": 314,
@@ -3918,7 +4232,8 @@ const questions = [
       "Cuando se ingresa a la nueva vía de circulación."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 315,
@@ -3930,7 +4245,8 @@ const questions = [
       "Ninguno, mientras no sobrepase la velocidad máxima permitida por la Ley."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 316,
@@ -3943,7 +4259,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b190.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b190.jpg",
+    "category": "senales"
   },
   {
     "id": 317,
@@ -3956,7 +4273,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b102.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b102.jpg",
+    "category": "senales"
   },
   {
     "id": 318,
@@ -3969,7 +4287,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b92.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b92.jpg",
+    "category": "teorica"
   },
   {
     "id": 319,
@@ -3982,7 +4301,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b36.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b36.jpg",
+    "category": "senales"
   },
   {
     "id": 320,
@@ -3994,7 +4314,8 @@ const questions = [
       "Depende del tipo de medicamento."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 321,
@@ -4007,7 +4328,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b52.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b52.jpg",
+    "category": "teorica"
   },
   {
     "id": 322,
@@ -4020,7 +4342,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b216.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b216.jpg",
+    "category": "teorica"
   },
   {
     "id": 323,
@@ -4032,7 +4355,8 @@ const questions = [
       "Rojo."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 324,
@@ -4045,7 +4369,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b116.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b116.jpg",
+    "category": "teorica"
   },
   {
     "id": 325,
@@ -4057,7 +4382,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b126.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b126.jpg",
+    "category": "senales"
   },
   {
     "id": 326,
@@ -4070,7 +4396,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b264.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b264.jpg",
+    "category": "senales"
   },
   {
     "id": 327,
@@ -4081,7 +4408,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 328,
@@ -4093,7 +4421,8 @@ const questions = [
       "El único cristal que debe garantizar plena y total visibilidad es el parabrisas."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 329,
@@ -4106,7 +4435,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b183.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b183.jpg",
+    "category": "teorica"
   },
   {
     "id": 330,
@@ -4119,7 +4449,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b121.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b121.jpg",
+    "category": "teorica"
   },
   {
     "id": 331,
@@ -4131,7 +4462,8 @@ const questions = [
       "Concurrir a cursos de actualización en temática vial, con una frecuencia no mayor a seis meses."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 332,
@@ -4143,7 +4475,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b117.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b117.jpg",
+    "category": "teorica"
   },
   {
     "id": 333,
@@ -4156,7 +4489,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b59.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b59.jpg",
+    "category": "teorica"
   },
   {
     "id": 334,
@@ -4168,7 +4502,8 @@ const questions = [
       "El aquaplaning."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 335,
@@ -4180,7 +4515,8 @@ const questions = [
       "Es el carril izquierdo de una autopista."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 336,
@@ -4192,7 +4528,8 @@ const questions = [
       "Sector señalizado y especialmente acondicionado en aceras y espacios verdes para la circulación de ciclorodados (bicicletas) y dispositivos de movilidad personal."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 337,
@@ -4205,7 +4542,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b68.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b68.jpg",
+    "category": "senales"
   },
   {
     "id": 338,
@@ -4217,7 +4555,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b1.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b1.jpg",
+    "category": "teorica"
   },
   {
     "id": 339,
@@ -4230,7 +4569,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b127.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b127.jpg",
+    "category": "teorica"
   },
   {
     "id": 340,
@@ -4243,7 +4583,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b79.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b79.jpg",
+    "category": "senales"
   },
   {
     "id": 341,
@@ -4255,7 +4596,8 @@ const questions = [
       "A la distancia que recorre un vehículo desde que el conductor percibe un peligro hasta que toma una decisión."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 342,
@@ -4268,7 +4610,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b274.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b274.jpg",
+    "category": "senales"
   },
   {
     "id": 343,
@@ -4281,7 +4624,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b182.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b182.jpg",
+    "category": "teorica"
   },
   {
     "id": 344,
@@ -4294,7 +4638,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b233.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b233.jpg",
+    "category": "senales"
   },
   {
     "id": 345,
@@ -4306,7 +4651,8 @@ const questions = [
       "Accionar fuertemente el pedal de freno."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 346,
@@ -4319,7 +4665,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b69.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b69.jpg",
+    "category": "senales"
   },
   {
     "id": 347,
@@ -4332,7 +4679,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b85.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b85.jpg",
+    "category": "senales"
   },
   {
     "id": 348,
@@ -4344,7 +4692,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b174.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b174.jpg",
+    "category": "senales"
   },
   {
     "id": 349,
@@ -4357,7 +4706,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b14.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b14.jpg",
+    "category": "senales"
   },
   {
     "id": 350,
@@ -4369,7 +4719,8 @@ const questions = [
       "Los antecedentes de la persona que provoca el daño."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 351,
@@ -4381,7 +4732,8 @@ const questions = [
       "A mayor cantidad de vehículos motorizados, mayor probabilidad de siniestralidad."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 352,
@@ -4394,7 +4746,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b195.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b195.jpg",
+    "category": "teorica"
   },
   {
     "id": 353,
@@ -4406,7 +4759,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 354,
@@ -4418,7 +4772,8 @@ const questions = [
       "Al estar desinhibido, asume menos riesgos."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 355,
@@ -4430,7 +4785,8 @@ const questions = [
       "Son las marcas canalizadoras de tránsito. No se puede traspasar o circular sobre ellas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 356,
@@ -4443,7 +4799,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b96.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b96.jpg",
+    "category": "senales"
   },
   {
     "id": 357,
@@ -4455,7 +4812,8 @@ const questions = [
       "Continuar a baja velocidad, manteniéndose en el carril, independientemente de cuál fuera."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 358,
@@ -4468,7 +4826,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b259.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b259.jpg",
+    "category": "senales"
   },
   {
     "id": 359,
@@ -4480,7 +4839,8 @@ const questions = [
       "No, está prohibido agregar cualquier tipo de luz adicional. Sólo se podrá reponer las que traiga de fábrica, en caso de destrucción."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 360,
@@ -4493,7 +4853,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b77.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b77.jpg",
+    "category": "senales"
   },
   {
     "id": 361,
@@ -4506,7 +4867,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b81.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b81.jpg",
+    "category": "senales"
   },
   {
     "id": 362,
@@ -4518,7 +4880,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b125.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b125.jpg",
+    "category": "teorica"
   },
   {
     "id": 363,
@@ -4530,7 +4893,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 364,
@@ -4542,7 +4906,8 @@ const questions = [
       "Al punto imaginario ubicado en el horizonte de una ruta."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 365,
@@ -4554,7 +4919,8 @@ const questions = [
       "Sí, debe estar firmemente asegurada, permitiendo maniobrar y no perder la estabilidad."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 366,
@@ -4566,7 +4932,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son incorrectas."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 367,
@@ -4579,7 +4946,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b5.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b5.jpg",
+    "category": "teorica"
   },
   {
     "id": 368,
@@ -4592,7 +4960,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b34.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b34.jpg",
+    "category": "senales"
   },
   {
     "id": 369,
@@ -4605,7 +4974,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b143.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b143.jpg",
+    "category": "senales"
   },
   {
     "id": 370,
@@ -4617,7 +4987,8 @@ const questions = [
       "A menor cantidad de vehículos, menor probabilidad de siniestralidad."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 371,
@@ -4630,7 +5001,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b100.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b100.jpg",
+    "category": "senales"
   },
   {
     "id": 372,
@@ -4642,7 +5014,8 @@ const questions = [
       "No pueden circular. Únicamente pueden hacerlo por ciclovías o bicisendas y los menores de 12 años por la vereda."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 373,
@@ -4655,7 +5028,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b62.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b62.jpg",
+    "category": "teorica"
   },
   {
     "id": 374,
@@ -4667,7 +5041,8 @@ const questions = [
       "Es indistinto, al ser de caucho se mantienen aislados de la temperatura."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 375,
@@ -4678,7 +5053,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 376,
@@ -4691,7 +5067,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b139.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b139.jpg",
+    "category": "teorica"
   },
   {
     "id": 377,
@@ -4703,7 +5080,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b171.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b171.jpg",
+    "category": "senales"
   },
   {
     "id": 378,
@@ -4716,7 +5094,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b244.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b244.jpg",
+    "category": "senales"
   },
   {
     "id": 379,
@@ -4729,7 +5108,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b12.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b12.jpg",
+    "category": "senales"
   },
   {
     "id": 380,
@@ -4741,7 +5121,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b141.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b141.jpg",
+    "category": "teorica"
   },
   {
     "id": 381,
@@ -4753,7 +5134,8 @@ const questions = [
       "Las de posición solamente."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 382,
@@ -4766,7 +5148,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b86.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b86.jpg",
+    "category": "senales"
   },
   {
     "id": 383,
@@ -4779,7 +5162,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b252.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b252.jpg",
+    "category": "senales"
   },
   {
     "id": 384,
@@ -4792,7 +5176,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b23.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b23.jpg",
+    "category": "teorica"
   },
   {
     "id": 385,
@@ -4805,7 +5190,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b197.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b197.jpg",
+    "category": "teorica"
   },
   {
     "id": 386,
@@ -4818,7 +5204,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b142.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b142.jpg",
+    "category": "senales"
   },
   {
     "id": 387,
@@ -4831,7 +5218,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b43.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b43.jpg",
+    "category": "senales"
   },
   {
     "id": 388,
@@ -4844,7 +5232,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b109.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b109.jpg",
+    "category": "senales"
   },
   {
     "id": 389,
@@ -4857,7 +5246,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b181.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b181.jpg",
+    "category": "senales"
   },
   {
     "id": 390,
@@ -4870,7 +5260,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b187.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b187.jpg",
+    "category": "teorica"
   },
   {
     "id": 391,
@@ -4883,7 +5274,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b58.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b58.jpg",
+    "category": "teorica"
   },
   {
     "id": 392,
@@ -4896,7 +5288,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b205.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b205.jpg",
+    "category": "teorica"
   },
   {
     "id": 393,
@@ -4909,7 +5302,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b73.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b73.jpg",
+    "category": "senales"
   },
   {
     "id": 394,
@@ -4921,7 +5315,8 @@ const questions = [
       "No debe superar el año desde su vencimiento."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 395,
@@ -4934,7 +5329,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b149.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b149.jpg",
+    "category": "teorica"
   },
   {
     "id": 396,
@@ -4947,7 +5343,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b243.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b243.jpg",
+    "category": "senales"
   },
   {
     "id": 397,
@@ -4959,7 +5356,8 @@ const questions = [
       "100 km/h."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 398,
@@ -4972,7 +5370,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b256.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b256.jpg",
+    "category": "senales"
   },
   {
     "id": 399,
@@ -4985,7 +5384,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b115.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b115.jpg",
+    "category": "teorica"
   },
   {
     "id": 400,
@@ -4997,7 +5397,8 @@ const questions = [
       "Es inmediato, no transcurre tiempo entre estas acciones."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 401,
@@ -5010,7 +5411,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b166.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b166.jpg",
+    "category": "teorica"
   },
   {
     "id": 402,
@@ -5022,7 +5424,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 403,
@@ -5034,7 +5437,8 @@ const questions = [
       "Porque el viaje dura más."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 404,
@@ -5046,7 +5450,8 @@ const questions = [
       "Al tratarse de una llamada de urgencia, no importa donde se realice."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 405,
@@ -5057,7 +5462,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 406,
@@ -5069,7 +5475,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 407,
@@ -5082,7 +5489,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b35.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b35.jpg",
+    "category": "teorica"
   },
   {
     "id": 408,
@@ -5094,7 +5502,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 409,
@@ -5107,7 +5516,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b146.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b146.jpg",
+    "category": "senales"
   },
   {
     "id": 410,
@@ -5120,7 +5530,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b118.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b118.jpg",
+    "category": "teorica"
   },
   {
     "id": 411,
@@ -5132,7 +5543,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b153.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b153.jpg",
+    "category": "teorica"
   },
   {
     "id": 412,
@@ -5145,7 +5557,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b151.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b151.jpg",
+    "category": "teorica"
   },
   {
     "id": 413,
@@ -5158,7 +5571,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b145.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b145.jpg",
+    "category": "teorica"
   },
   {
     "id": 414,
@@ -5169,7 +5583,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 415,
@@ -5182,7 +5597,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b248.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b248.jpg",
+    "category": "senales"
   },
   {
     "id": 416,
@@ -5194,7 +5610,8 @@ const questions = [
       "Se debería poder observar las facciones del conductor a una distancia mínima de 15 metros."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 417,
@@ -5207,7 +5624,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b112.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b112.jpg",
+    "category": "teorica"
   },
   {
     "id": 418,
@@ -5219,7 +5637,8 @@ const questions = [
       "Ambas respuestas, la A y la B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 419,
@@ -5232,7 +5651,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b130.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b130.jpg",
+    "category": "teorica"
   },
   {
     "id": 420,
@@ -5244,7 +5664,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b20.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b20.jpg",
+    "category": "teorica"
   },
   {
     "id": 421,
@@ -5257,7 +5678,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b219.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b219.jpg",
+    "category": "teorica"
   },
   {
     "id": 422,
@@ -5270,7 +5692,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b263.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b263.jpg",
+    "category": "senales"
   },
   {
     "id": 423,
@@ -5281,7 +5704,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 424,
@@ -5293,7 +5717,8 @@ const questions = [
       "30 km/h."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 425,
@@ -5306,7 +5731,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b41.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b41.jpg",
+    "category": "teorica"
   },
   {
     "id": 426,
@@ -5319,7 +5745,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b4.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b4.jpg",
+    "category": "teorica"
   },
   {
     "id": 427,
@@ -5331,7 +5758,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b192.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b192.jpg",
+    "category": "teorica"
   },
   {
     "id": 428,
@@ -5344,7 +5772,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b72.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b72.jpg",
+    "category": "senales"
   },
   {
     "id": 429,
@@ -5356,7 +5785,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b108.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b108.jpg",
+    "category": "teorica"
   },
   {
     "id": 430,
@@ -5368,7 +5798,8 @@ const questions = [
       "No, ya que los efectos de la resaca no intervienen en la conducción."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 431,
@@ -5379,7 +5810,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 432,
@@ -5392,7 +5824,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b47.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b47.jpg",
+    "category": "teorica"
   },
   {
     "id": 433,
@@ -5403,7 +5836,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 434,
@@ -5415,7 +5849,8 @@ const questions = [
       "Cada 1 hora aproximadamente."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 435,
@@ -5428,7 +5863,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b247.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b247.jpg",
+    "category": "senales"
   },
   {
     "id": 436,
@@ -5440,7 +5876,8 @@ const questions = [
       "Únicamente cuando se trata de una persona que padece de fatiga crónica."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 437,
@@ -5452,7 +5889,8 @@ const questions = [
       "Sí, porque sólo se permite su utilización para realizar alguna maniobra."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 438,
@@ -5463,7 +5901,8 @@ const questions = [
       "Falso."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 439,
@@ -5476,7 +5915,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b110.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b110.jpg",
+    "category": "senales"
   },
   {
     "id": 440,
@@ -5489,7 +5929,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b60.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b60.jpg",
+    "category": "teorica"
   },
   {
     "id": 441,
@@ -5501,7 +5942,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b172.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b172.jpg",
+    "category": "senales"
   },
   {
     "id": 442,
@@ -5512,7 +5954,8 @@ const questions = [
       "Falso."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 443,
@@ -5524,7 +5967,8 @@ const questions = [
       "Señalización; Normas legales de carácter general; Indicaciones de la autoridad competente."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 444,
@@ -5536,7 +5980,8 @@ const questions = [
       "Adultos mayores de 35 años."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 445,
@@ -5549,7 +5994,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b55.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b55.jpg",
+    "category": "senales"
   },
   {
     "id": 446,
@@ -5561,7 +6007,8 @@ const questions = [
       "107 y 911."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 447,
@@ -5573,7 +6020,8 @@ const questions = [
       "Al estado resbaladizo en el que se encuentra la calzada luego de una llovizna."
     ],
     "correct": 1,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 448,
@@ -5586,7 +6034,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b131.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b131.jpg",
+    "category": "teorica"
   },
   {
     "id": 449,
@@ -5598,7 +6047,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 450,
@@ -5610,7 +6060,8 @@ const questions = [
       "A la distancia que recorre el vehículo desde que el conductor percibe una situación de peligro hasta que acciona el freno."
     ],
     "correct": 0,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 451,
@@ -5622,7 +6073,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b136.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b136.jpg",
+    "category": "teorica"
   },
   {
     "id": 452,
@@ -5635,7 +6087,8 @@ const questions = [
     ],
     "correct": 2,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b211.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b211.jpg",
+    "category": "teorica"
   },
   {
     "id": 453,
@@ -5647,7 +6100,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b214.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b214.jpg",
+    "category": "teorica"
   },
   {
     "id": 454,
@@ -5660,7 +6114,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b272.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b272.jpg",
+    "category": "senales"
   },
   {
     "id": 455,
@@ -5673,7 +6128,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b46.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b46.jpg",
+    "category": "teorica"
   },
   {
     "id": 456,
@@ -5686,7 +6142,8 @@ const questions = [
     ],
     "correct": 0,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b78.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b78.jpg",
+    "category": "senales"
   },
   {
     "id": 457,
@@ -5698,7 +6155,8 @@ const questions = [
       "Ambas respuestas, A y B, son correctas."
     ],
     "correct": 2,
-    "weight": 1
+    "weight": 1,
+    "category": "teorica"
   },
   {
     "id": 458,
@@ -5711,7 +6169,8 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b101.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b101.jpg",
+    "category": "senales"
   },
   {
     "id": 459,
@@ -5724,6 +6183,7 @@ const questions = [
     ],
     "correct": 1,
     "weight": 1,
-    "image": "https://www.testdeconducir.com.ar/images/preguntas/b188.jpg"
+    "image": "https://www.testdeconducir.com.ar/images/preguntas/b188.jpg",
+    "category": "teorica"
   }
 ];
