@@ -247,6 +247,7 @@ function handleAnswer(selectedIndex, btnElement) {
     buttons.forEach(b => b.disabled = true);
 
     const q = state.gameQuestions[state.currentIndex];
+    q.userAnswer = selectedIndex; // Store user answer
     const isCorrect = selectedIndex === q.correct;
 
     if (isCorrect) {
@@ -315,7 +316,51 @@ function endGame() {
         circle.style.backgroundColor = "var(--accent-color)";
     }
 
+    renderSummary();
     showScreen('result');
+}
+
+function renderSummary() {
+    const container = document.getElementById('questions-summary');
+    container.innerHTML = '<h3>Resumen de Preguntas</h3>';
+
+    state.gameQuestions.forEach((q, index) => {
+        const questionDiv = document.createElement('div');
+        questionDiv.className = 'summary-item';
+        
+        const isCorrect = q.userAnswer === q.correct;
+        const statusClass = isCorrect ? 'correct' : 'incorrect';
+        const statusIcon = isCorrect ? '<i class="fa-solid fa-check"></i>' : '<i class="fa-solid fa-xmark"></i>';
+
+        let imageHtml = '';
+        if (q.type === 'image') {
+            imageHtml = `<div class="summary-image"><img src="${q.image}" alt="Pregunta"></div>`;
+        }
+
+        let optionsHtml = '<div class="summary-options">';
+        q.options.forEach((opt, optIndex) => {
+            let optionClass = 'summary-option';
+            if (optIndex === q.correct) optionClass += ' correct-answer';
+            if (optIndex === q.userAnswer && optIndex !== q.correct) optionClass += ' user-wrong';
+            
+            optionsHtml += `<div class="${optionClass}">${opt}</div>`;
+        });
+        optionsHtml += '</div>';
+
+        questionDiv.innerHTML = `
+            <div class="summary-header ${statusClass}">
+                <span class="summary-number">#${index + 1}</span>
+                <span class="summary-status">${statusIcon}</span>
+            </div>
+            <div class="summary-content">
+                <p class="summary-question">${q.question}</p>
+                ${imageHtml}
+                ${optionsHtml}
+            </div>
+        `;
+
+        container.appendChild(questionDiv);
+    });
 }
 
 function showHistory() {
