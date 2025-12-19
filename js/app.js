@@ -340,10 +340,19 @@ function renderSummary() {
         let optionsHtml = '<div class="summary-options">';
         q.options.forEach((opt, optIndex) => {
             let optionClass = 'summary-option';
-            if (optIndex === q.correct) optionClass += ' correct-answer';
-            if (optIndex === q.userAnswer && optIndex !== q.correct) optionClass += ' user-wrong';
+            let icon = '<i class="fa-regular fa-circle"></i>';
+
+            if (optIndex === q.correct) {
+                optionClass += ' correct-answer';
+                icon = '<i class="fa-solid fa-check-circle"></i>';
+            }
             
-            optionsHtml += `<div class="${optionClass}">${opt}</div>`;
+            if (optIndex === q.userAnswer && optIndex !== q.correct) {
+                optionClass += ' user-wrong';
+                icon = '<i class="fa-solid fa-circle-xmark"></i>';
+            }
+            
+            optionsHtml += `<div class="${optionClass}">${icon} ${opt}</div>`;
         });
         optionsHtml += '</div>';
 
